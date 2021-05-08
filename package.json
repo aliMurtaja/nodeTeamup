@@ -24,6 +24,6 @@
     "node-querybuilder": "^2.0.1",
     "responsive": "^2.0.0",
     "twig": "^1.13.3",
-    "typeorm": "^0.2.18"
+    "typeorm": "^0.2.25"
   }
 }
